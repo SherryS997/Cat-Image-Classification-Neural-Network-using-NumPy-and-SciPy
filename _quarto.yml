@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme:
+      light: [cosmo]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
