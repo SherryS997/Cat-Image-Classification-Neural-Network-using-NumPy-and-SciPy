@@ -6,20 +6,7 @@ This project implements a neural network using numpy and scipy to classify cat i
 
 The neural network architecture comprises several layers, including linear, ReLU (Rectified Linear Unit), and sigmoid activation functions. It is implemented as a 4-layer neural network with customizable layer dimensions.
 
-## Project Structure
-
-- `cat_image_classification.ipynb`: Jupyter Notebook containing the code for the neural network implementation, training, and evaluation.
-- `datasets/`: Directory containing the dataset for training and testing (`train_catvnoncat.h5` and `test_catvnoncat.h5`).
-
-## Dependencies
-
-The project relies on the following libraries:
-
-- NumPy
-- SciPy
-- h5py
-- Matplotlib
-- PIL (Python Imaging Library)
+...
 
 ## Usage
 
@@ -30,6 +17,10 @@ The project relies on the following libraries:
 ## Results
 
 The trained neural network achieves a certain level of accuracy in classifying cat images from non-cat images. The notebook provides visualizations of the training process, accuracy, and misclassified images.
+
+## Rendered Notebook Site
+
+The rendered site of the notebook can be accessed [here](https://sherrys997.github.io/Cat-Image-Classification-Neural-Network-using-NumPy-and-SciPy/).
 
 ## Contributing
 
